@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Testing CI/CD
+          Just making sure this still works
         </a>
       </header>
     </div>
